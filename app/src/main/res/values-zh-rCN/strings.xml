@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">清洁器</string>
+    <string name="title_manual">使用说明</string>
+    <string name="para_manual">这是一个可以彻底清除已删除文件的应用程序。其原理是通过覆盖不存储文件的存储区来清除剩余的文件信息。它是一个简单而安全的工具。当您开始清理过程时，请不要随意退出该应用程序。尽情使用！</string>
+    <string name="label_start">开始</string>
+    <string name="label_write_zero">写入 0</string>
+    <string name="label_write_one">写入 1</string>
+    <string name="label_write_random">写入随机数字</string>
+    <string name="title_cleaning">清扫中...</string>
+    <string name="label_finished">已完成</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cleaner</string>
+    <string name="title_manual">Manual</string>
+    <string name="para_manual">This is an application which can clean your deleted files thoroughly. Its principle is to clear the remaining file information by overwriting the memory area that does not store files. Its simple and safety. When you start the process, please not exit the application at will. Enjoy it!</string>
+    <string name="label_start">Start</string>
+    <string name="label_write_zero">Write Zero</string>
+    <string name="label_write_one">Write One</string>
+    <string name="label_write_random">Write Random Number</string>
+    <string name="title_cleaning">Cleaning...</string>
+    <string name="label_finished">Finished</string>
+</resources>
